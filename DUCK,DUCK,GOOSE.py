@@ -10,3 +10,5 @@ lista= lista.split(",")
 print(lista)
 num=input("introduce un número: ")
 print(pato(num,lista))
+print("jajajajajjajqajajajajjajajajajajajajaja")
+
